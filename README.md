@@ -1,1 +1,1 @@
-# iris-neural-networls
+# iris-neural-networks
